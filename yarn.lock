@@ -17,8 +17,8 @@ requirejs@^2.3.5:
   resolved "https://registry.yarnpkg.com/requirejs/-/requirejs-2.3.5.tgz#617b9acbbcb336540ef4914d790323a8d4b861b0"
 
 suren-restful@^1.0.2-0:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/suren-restful/-/suren-restful-1.0.3.tgz#e0444d143e3150b5d4a5e9ddbbaea39f744e9a78"
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/suren-restful/-/suren-restful-1.0.5.tgz#0a04190f0f564c3f5133695c1285076d546081a8"
   dependencies:
     jquery "3.2.1"
 

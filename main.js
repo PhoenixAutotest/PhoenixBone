@@ -1,5 +1,5 @@
 require.config({
-    baseUrl: 'node_modules',
+    baseUrl: './node_modules',
     paths: {
         'jquery': 'jquery/dist/jquery',
         'suren-restful': 'suren-restful/restFul',
@@ -27,7 +27,7 @@ require(['jquery', 'suren-restful', 'backbone'], function ($, sr, backbone) {
             'hello': 'hello'
         },
         hello: function () {
-            require(['./hello'], function (module) {
+            require(['../app/hello'], function (module) {
                 module.run();
             });
         }

@@ -16,11 +16,19 @@ requirejs@^2.3.5:
   version "2.3.5"
   resolved "https://registry.yarnpkg.com/requirejs/-/requirejs-2.3.5.tgz#617b9acbbcb336540ef4914d790323a8d4b861b0"
 
+suren-require@^1.0.5:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/suren-require/-/suren-require-1.0.8.tgz#c5087b4d50af3e8cb2323af76fe591a98e138dc0"
+
 suren-restful@^1.0.2-0:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/suren-restful/-/suren-restful-1.0.5.tgz#0a04190f0f564c3f5133695c1285076d546081a8"
   dependencies:
     jquery "3.2.1"
+
+"text@github:requirejs/text":
+  version "2.0.15"
+  resolved "https://codeload.github.com/requirejs/text/tar.gz/d04de4ffd7bf5ba6cb80cdca2d40d4f6f52a1b1f"
 
 underscore@>=1.8.3:
   version "1.8.3"

@@ -27,7 +27,7 @@ require(['jquery', 'suren-restful', 'backbone'], function ($, sr, backbone) {
             'hello': 'hello'
         },
         hello: function () {
-            require(['hello.js'], function (module) {
+            require(['./hello'], function (module) {
                 module.run();
             });
         }

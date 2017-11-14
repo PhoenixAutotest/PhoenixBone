@@ -6,7 +6,9 @@ require.config({
         'suren-require': 'suren-require/suren-require',
         'underscore': 'underscore/underscore',
         'backbone': 'backbone/backbone',
-        'text': 'text/text'
+        'text': 'text/text',
+        'two': '../app/two',
+        'one': '../app/one'
     },
     shim: {
         'underscore': {
